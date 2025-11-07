@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+
+# YOLOv5 / Models (too large!)
+*.pt
+*.pth
+*.weights
+*.onnx
+runs/
+weights/
+yolov5/
+
+# Dataset (too large!)
+dataset/
+data/
+*.jpg
+*.jpeg  
+*.png
+*.mp4
+*.avi
+
+# Training outputs
+wandb/
+exp*/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
