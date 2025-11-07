@@ -131,7 +131,8 @@ MIT License - Free for educational use
 ## 👤 Author
 
 **Airil Haikal Mohd Ridzwan**  
-[GitHub](https://github.com/UrUsualKal) | [LinkedIn]([www.linkedin.com/in/airil-haikal-mohd-ridzwan-94650a391](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airil-haikal-mohd-ridzwan-94650a391/?trk=opento_sprofile_details))
+[GitHub](https://github.com/UrUsualKal) | [LinkedIn](https://www.linkedin.com/in/airil-haikal-mohd-ridzwan-94650a391/?trk=opento_sprofile_details)
+
 
 ## 🙏 Credits
 
