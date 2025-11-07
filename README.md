@@ -130,8 +130,8 @@ MIT License - Free for educational use
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**Airil Haikal Mohd Ridzwan**  
+[GitHub](https://github.com/UrUsualKal) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Credits
 
