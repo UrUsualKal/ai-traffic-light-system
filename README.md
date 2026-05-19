@@ -1,4 +1,4 @@
-# 🚦 AI-Powered Dual Traffic Light System
+#  AI-Powered Dual Traffic Light System
 
 An intelligent traffic management system using YOLOv5 for real-time car detection and Arduino for hardware control.
 
@@ -6,7 +6,7 @@ An intelligent traffic management system using YOLOv5 for real-time car detectio
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## 🎯 Features
+##  Features
 
 - **Real-time Car Detection**: YOLOv5-based with 70% confidence threshold
 - **Dual Traffic Lights**: Coordinated A/B intersection management  
@@ -15,7 +15,7 @@ An intelligent traffic management system using YOLOv5 for real-time car detectio
 - **Audio Alerts**: Buzzer for high traffic conditions
 - **Yellow Buffer**: Safe 2-second transitions
 
-## 📊 Traffic Logic
+##  Traffic Logic
 
 | Cars | Traffic A | Traffic B | Mode |
 |------|-----------|-----------|------|
@@ -23,7 +23,7 @@ An intelligent traffic management system using YOLOv5 for real-time car detectio
 | 1-7 | 🟢 Green | 🔴 Red | AI Control |
 | ≥8 | 🔄 30s alternate | 🔄 30s alternate | High Traffic |
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Install Dependencies
 ```bash
@@ -81,18 +81,18 @@ Run:
 python python_code/traffic_light_system.py
 ```
 
-## 🎮 Controls
+##  Controls
 
 - `q` - Quit
 - `r` - Reset to normal mode
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **AI/ML**: PyTorch, YOLOv5, OpenCV
 - **Hardware**: Arduino Uno
 - **Languages**: Python 3.9, C++
 
-## 📖 How It Works
+##  How It Works
 
 1. Camera captures video
 2. YOLOv5 detects cars  
@@ -101,7 +101,7 @@ python python_code/traffic_light_system.py
 5. Sends commands to Arduino
 6. Arduino controls LEDs and buzzer
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 **Camera not found:**
 ```python
@@ -117,14 +117,14 @@ SOURCE = 1  # Try different numbers
 - Reduce camera resolution
 - Use GPU if available
 
-## 📈 Future Plans
+##  Future Plans
 
 - [ ] Multi-lane support
 - [ ] Emergency vehicle priority
 - [ ] Web monitoring dashboard
 - [ ] Pedestrian detection
 
-## 📝 License
+##  License
 
 MIT License - Free for educational use
 
@@ -134,7 +134,7 @@ MIT License - Free for educational use
 [GitHub](https://github.com/UrUsualKal) | [LinkedIn](https://www.linkedin.com/in/airil-haikal-mohd-ridzwan-94650a391/?trk=opento_sprofile_details)
 
 
-## 🙏 Credits
+##  Credits
 
 - [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5)
 - OpenCV & Arduino communities
